@@ -1,0 +1,94 @@
+16:32:00.631 [main] INFO  - ****** Login Account page******** 
+16:32:00.644 [main] INFO  - Goto my account-->Click on Login.. 
+16:32:04.297 [main] INFO  - validate Login Account 
+16:32:04.453 [main] INFO  - provide email and password here ..... 
+16:32:05.317 [main] INFO  - Successfully filled email and password 
+16:32:11.203 [main] INFO  -  clicked on login button
+16:32:11.214 [main] INFO  -  validating MyAccount page
+16:32:19.616 [main] INFO  - this is Scenario Outline.... 
+16:32:21.721 [main] INFO  -  user is on Login page
+16:32:21.739 [main] INFO  -  provide email and password here
+16:32:22.543 [main] INFO  -  sucessfully provided...
+16:32:24.101 [main] INFO  - clicked on login button 
+16:32:24.113 [main] INFO  - Validating My Account Page here.... 
+16:32:32.175 [main] INFO  - this is Scenario Outline.... 
+16:32:34.255 [main] INFO  -  user is on Login page
+16:32:34.267 [main] INFO  -  provide email and password here
+16:32:35.045 [main] INFO  -  sucessfully provided...
+16:32:36.518 [main] INFO  - clicked on login button 
+16:32:36.522 [main] INFO  - Validating My Account Page here.... 
+16:32:44.245 [main] INFO  - this is Scenario Outline.... 
+16:32:46.181 [main] INFO  -  user is on Login page
+16:32:46.214 [main] INFO  -  provide email and password here
+16:32:46.941 [main] INFO  -  sucessfully provided...
+16:32:48.521 [main] INFO  - clicked on login button 
+16:32:48.532 [main] INFO  - Validating My Account Page here.... 
+16:32:55.946 [main] INFO  - this is Scenario Outline.... 
+16:32:57.785 [main] INFO  -  user is on Login page
+16:32:57.798 [main] INFO  -  provide email and password here
+16:32:58.346 [main] INFO  -  sucessfully provided...
+16:32:59.747 [main] INFO  - clicked on login button 
+16:32:59.766 [main] INFO  - Validating My Account Page here.... 
+16:33:08.599 [main] INFO  - ****** Login Account page******** 
+16:33:08.601 [main] INFO  - Goto my account-->Click on Login.. 
+16:33:10.653 [main] INFO  - ****** Registration Account page******** 
+16:33:10.654 [main] INFO  - Goto my account-->Click on registration .. 
+16:33:13.157 [main] INFO  - provid all information below........ 
+16:33:15.151 [main] INFO  - successfully detials provided 
+16:33:15.179 [main] INFO  - clicked on privacy policy
+16:33:15.511 [main] INFO  - Clicked on Continue Button
+16:33:15.545 [main] INFO  - validating Account created successfully
+16:41:23.823 [main] INFO  - ****** Login Account page******** 
+16:41:23.861 [main] INFO  - Goto my account-->Click on Login.. 
+16:41:26.461 [main] INFO  - ****** Registration Account page******** 
+16:41:26.463 [main] INFO  - Goto my account-->Click on registration .. 
+16:41:33.376 [main] INFO  - provid all information below........ 
+16:41:35.871 [main] INFO  - successfully detials provided 
+16:41:35.880 [main] INFO  - clicked on privacy policy
+16:41:36.406 [main] INFO  - Clicked on Continue Button
+16:41:36.408 [main] INFO  - validating Account created successfully
+16:50:32.409 [main] INFO  - ****** Login Account page******** 
+16:50:32.422 [main] INFO  - Goto my account-->Click on Login.. 
+16:50:35.050 [main] INFO  - ****** Registration Account page******** 
+16:50:35.051 [main] INFO  - Goto my account-->Click on registration .. 
+16:50:37.121 [main] INFO  - provid all information below........ 
+16:50:39.700 [main] INFO  - successfully detials provided 
+16:50:39.711 [main] INFO  - clicked on privacy policy
+16:50:40.260 [main] INFO  - Clicked on Continue Button
+16:50:45.274 [main] INFO  - validating Account created successfully
+16:52:07.469 [main] INFO  - ****** Login Account page******** 
+16:52:07.480 [main] INFO  - Goto my account-->Click on Login.. 
+16:52:09.333 [main] INFO  - ****** Registration Account page******** 
+16:52:09.334 [main] INFO  - Goto my account-->Click on registration .. 
+16:52:14.515 [main] INFO  - provid all information below........ 
+16:52:17.312 [main] INFO  - successfully detials provided 
+16:52:23.329 [main] INFO  - clicked on privacy policy
+16:52:23.674 [main] INFO  - Clicked on Continue Button
+16:52:28.692 [main] INFO  - validating Account created successfully
+16:53:53.053 [main] INFO  - ****** Login Account page******** 
+16:53:53.065 [main] INFO  - Goto my account-->Click on Login.. 
+16:53:55.199 [main] INFO  - ****** Registration Account page******** 
+16:53:55.200 [main] INFO  - Goto my account-->Click on registration .. 
+16:54:02.065 [main] INFO  - provid all information below........ 
+16:54:04.477 [main] INFO  - successfully detials provided 
+16:54:10.514 [main] INFO  - clicked on privacy policy
+16:54:14.986 [main] INFO  - Clicked on Continue Button
+16:54:19.989 [main] INFO  - validating Account created successfully
+16:54:20.145 [main] INFO  - *********** finish ***********
+17:00:26.431 [main] INFO  - ****** Login Account page******** 
+17:00:26.442 [main] INFO  - Goto my account-->Click on Login.. 
+17:00:28.665 [main] INFO  - validate Login Account 
+17:00:28.789 [main] INFO  - provide email and password here ..... 
+17:00:30.062 [main] INFO  - Successfully filled email and password 
+17:00:32.321 [main] INFO  -  clicked on login button
+17:00:32.367 [main] INFO  -  validating MyAccount page
+17:00:40.964 [main] INFO  - ****** Login Account page******** 
+17:00:40.965 [main] INFO  - Goto my account-->Click on Login.. 
+17:00:42.982 [main] INFO  - ****** Registration Account page******** 
+17:00:42.983 [main] INFO  - Goto my account-->Click on registration .. 
+17:00:45.204 [main] INFO  - provid all information below........ 
+17:00:47.412 [main] INFO  - successfully detials provided 
+17:00:53.432 [main] INFO  - clicked on privacy policy
+17:00:58.863 [main] INFO  - Clicked on Continue Button
+17:01:03.891 [main] INFO  - validating Account created successfully
+17:01:03.985 [main] INFO  - *********** finish ***********
